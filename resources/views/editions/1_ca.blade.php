@@ -115,8 +115,8 @@
                 <div class="calendar calendar--red">
                     <div class="calendar__heading">Votació</div>
                     <div class="calendar__dates">
-                        <div class="calendar__days"><strong>1</strong> - <strong>15</strong></div>
-                        <div class="calendar__month">maig</div>
+                        <div class="calendar__days"><strong>15</strong> - <strong>15</strong></div>
+                        <div class="calendar__month">abr. / mai.</div>
                     </div>
                 </div>
             </div>
@@ -124,6 +124,28 @@
                 <p>
                     Es podrà votar telemàticament per mitjà del sistema habilitat
                     per internet o als punts habilitats per a la votació presencial.
+                </p>
+            </div>
+        </div>
+
+
+        <div class="phase__path mt-0">
+            <img src="/images/path-2.svg" alt="" style="transform: rotate(180deg);" />
+        </div>
+
+        <div class="phase">
+            <div class="phase__calendar">
+                <div class="calendar">
+                    <div class="calendar__heading">Resultats</div>
+                    <div class="calendar__dates">
+                        <div class="calendar__days"><strong>18</strong></div>
+                        <div class="calendar__month">maig</div>
+                    </div>
+                </div>
+            </div>
+            <div class="phase__text">
+                <p>
+                    Publicació dels resultats.
                 </p>
             </div>
         </div>
