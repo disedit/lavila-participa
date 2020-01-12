@@ -9,32 +9,32 @@ return [
     */
 
     /* The name of the city */
-    'municipality' => 'Any City',
+    'municipality' => 'La Vila Joiosa',
 
     /* The name of the council */
-    'council_name' => 'Any Council',
+    'council_name' => 'Ajuntament de la Vila Joiosa',
 
     /* The council's home page */
-    'council_url' => 'https://anycity.com',
+    'council_url' => 'http://www.villajoyosa.com/',
 
     /* The council's logo / coat of arms */
-    'council_logo' => 'council.png',
+    'council_logo' => '',
 
     /* The e-mail where users can contact for support */
-    'contact_email' => 'participa@disedit.com',
+    'contact_email' => 'dubtes@lavilaparticipa.com',
 
     /* The council's address */
-    'contact_address' => 'Pl. Major, 1',
+    'contact_address' => 'Carrer Major, 14',
 
     /* The council's contact phone */
-    'contact_phone' => '44343242',
+    'contact_phone' => '966 851 001',
 
     /* The council's facebook page and app ID */
-    'facebook' => 'https://facebook.com/council',
+    'facebook' => 'https://www.facebook.com/ayuntamientovillajoyosa',
     'facebook_app_id' => '180444172483336',
 
     /* The council's twitter account */
-    'twitter' => 'infoDisedit',
+    'twitter' => 'Aytolavila',
 
     /*
     |--------------------------------------------------------------------------
