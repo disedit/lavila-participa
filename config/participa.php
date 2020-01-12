@@ -15,10 +15,10 @@ return [
     'council_name' => 'Ajuntament de la Vila Joiosa',
 
     /* The council's home page */
-    'council_url' => 'http://www.villajoyosa.com/',
+    'council_url' => 'http://www.villajoyosa.com',
 
     /* The council's logo / coat of arms */
-    'council_logo' => '',
+    'council_logo' => null,
 
     /* The e-mail where users can contact for support */
     'contact_email' => 'dubtes@lavilaparticipa.com',
@@ -34,7 +34,7 @@ return [
     'facebook_app_id' => '180444172483336',
 
     /* The council's twitter account */
-    'twitter' => 'Aytolavila',
+    'twitter' => 'aytolavila',
 
     /*
     |--------------------------------------------------------------------------
