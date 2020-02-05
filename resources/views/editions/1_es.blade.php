@@ -43,7 +43,7 @@
 </section>
 
 <section id="calendar" aria-labelledby="about-2" class="about-block about-block--calendar">
-    <h3 id="about-2">Calendari</h3>
+    <h3 id="about-2">Calendario</h3>
 
     <div class="phases phases-compact">
         <div class="phase">
@@ -147,7 +147,7 @@
         </div>
     </div>
 
-    <p class="about-block__fine-print mt-4 mb-0">* Les dates del calendari poden sofrir variacions</p>
+    <p class="about-block__fine-print mt-4 mb-0">* Las fechas del calendario pueden sufrir variaciones</p>
 </section>
 
 
