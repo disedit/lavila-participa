@@ -3,42 +3,42 @@
     <img src="/images/choice-2.svg" class="about-block__thumbnail" alt="" aria-hidden="true" />
 
     <p>
-      L’<strong>Ajuntament de la Vila Joiosa</strong> ha establert la regeneració
-      democràtica com uns dels seus pilars bàsics. Una regeneració que passa per
-      donar veu als ciutadans i ciutadanes i apropar-los a la pressa de decisions.
-      Una participació que té per finalitat que la ciutania puga assolir majors quotes
-      de corresponsabilitat política perquè <strong>“co-governen” el seu ajuntament, el seu poble</strong>.
+      El <strong>Ayuntamiento de Villajoyosa</strong> ha establecido la regeneración
+      democrática como unos de sus pilares básicos. Una regeneración que pasa por
+      dar voz a los ciudadanos, acercándolos a la toma de decisiones.
+      Una participación que tiene por finalidad que la ciudadanía pueda
+      alcanzar mayores cuotas de corresponsabilidad política porque
+      <strong>"co-gobiernan" su ayuntamiento, su pueblo.</strong>
     </p>
     <p>
-      Ja vam començar fa dos anys amb aquest format de pressupostos participatius
-      i en aquesta segona edicio, el procés de participaciò serà molt més ampli,
-      dinàmic i fàcil.
+      Ya comenzamos hace dos años con este formato de presupuestos participativos y en esta segunda edición el proceso de participación será mucho más amplio, dinámico y fácil.
     </p>
     <p>
-      <strong>La Vila Participa</strong> pretén aprofundir en la participació real i efectiva de
-      la ciutadania.
+      <strong>La Vila Participa</strong> pretende profundizar en la participación
+      real y efectiva de la ciudadanía.
     </p>
     <p>
-      A tal efecte, l'Equip de Govern ha decidit que els <strong>10 projectes</strong> que se
-      sotmeten a votació hagen estat proposats per la ciutadania. Al mes de <strong>febrer
-      de 2020</strong>, s'obrirà un termini de quatre setmanes per tal que els ciutadans i
-      les ciutadanes presenten les seues propostes d'inversions. Aquestes propostes
-      seran avaluades i analitzades pel Tècnics Municipals i cada proposta tindrà
-      un pressupost estimat i una estimació de beneficiaris, així com el motiu pel
-      qual queden desestimades.
+      A tal efecto, el Equipo de Gobierno ha decidido que los <strong>10 proyectos</strong>
+      que se someten a votación sean propuestos por la ciudadanía.
+      En <strong>febrero de 2020</strong>, se abrirá un plazo de cuatro semanas para que los
+      ciudadanos y las ciudadanas presenten sus propuestas de inversiones.
+      Estas propuestas serán evaluadas y analizadas por técnicos municipales
+      y cada propuesta tendrá un presupuesto estimado y una estimación de
+      beneficiarios, así como el motivo por el que quedan desestimadas.
     </p>
     <p>
-      Posteriorment, seran els ciutadans i ciutadanes els qui es pronunciaran sobre
-      <strong>quins 3 projectes consideren prioritaris</strong>. La informació al voltant dels projectes
-      es podrà consultar a la web municipal, als llocs habilitats per a l’emissió del
-      parer de la ciutadania, així com als diferents mitjans de comunicació.
-      Es farà una presentació pública dels 10 projectes sotmesos a votació.
+      Posteriormente, serán los ciudadanos quienes se pronunciarán
+      sobre <strong>qué 3 proyectos</strong> consideran prioritarios.
+      La información en torno a los proyectos se podrá consultar en la
+      web municipal, en los lugares habilitados para la emisión de la opinión
+      de la ciudadanía, así como en los diferentes medios de comunicación.
+      Se hará una presentación pública de los 10 proyectos sometidos a votación.
     </p>
     <p>
-      Els responsables dels projectes elegits per a ser votats tindran l’oportunitat
-      de presentar-los públicament en una sessió oberta a la ciutadania, sense
-      perjudici que la persona o grup que així ho considere puga fer més accions
-      de promoció de la seua proposta. 
+      Los responsables de los proyectos elegidos para ser votados tendrán
+      la oportunidad de presentarlos públicamente en una sesión abierta a
+      la ciudadanía, sin perjuicio de que la persona o grupo que así lo considere
+      pueda hacer más acciones de promoción de su propuesta.
     </p>
 </section>
 
@@ -49,18 +49,16 @@
         <div class="phase">
             <div class="phase__calendar">
                 <div class="calendar">
-                    <div class="calendar__heading">Propostes</div>
+                    <div class="calendar__heading">Propuestas</div>
                     <div class="calendar__dates">
                         <div class="calendar__days"><strong>1-29</strong></div>
-                        <div class="calendar__month">febrer</div>
+                        <div class="calendar__month">febrero</div>
                     </div>
                 </div>
             </div>
             <div class="phase__text">
                 <p>
-                    La ciutadania i associacions poden fer
-                    arribar les seues propostes emplenant el
-                    <a href="/propose">formulari online</a>.
+                    La ciudadanía y asociaciones pueden hacer llegar sus propuestas rellenando el <a href="/propose">formulario online</a>.
                 </p>
             </div>
         </div>
@@ -72,15 +70,15 @@
         <div class="phase">
             <div class="phase__calendar">
                 <div class="calendar">
-                    <div class="calendar__heading">Avaluació</div>
+                    <div class="calendar__heading">Evaluación</div>
                     <div class="calendar__dates">
                         <div class="calendar__days"><strong>1</strong> - <strong>31</strong></div>
-                        <div class="calendar__month">març</div>
+                        <div class="calendar__month">marzo</div>
                     </div>
                 </div>
             </div>
             <div class="phase__text">
-                <p>Informació tècnica dels projectes presentats per determinar-ne pressupost.</p>
+                <p>Información técnica de los proyectos presentados por determinar presupuesto.</p>
             </div>
         </div>
 
@@ -91,7 +89,7 @@
         <div class="phase">
             <div class="phase__calendar">
                 <div class="calendar">
-                    <div class="calendar__heading">Campanya</div>
+                    <div class="calendar__heading">Campaña</div>
                     <div class="calendar__dates">
                         <div class="calendar__days"><strong>1</strong> - <strong>31</strong></div>
                         <div class="calendar__month">abril</div>
@@ -100,8 +98,7 @@
             </div>
             <div class="phase__text">
                 <p>
-                    S'exposaran i explicaran els 10 projectes que serán objecte de
-                    votació, període i llocs on votar en un acte públic.
+                    Se expondrán y explicarán los 10 proyectos objeto de votación, periodo y lugares donde votar en un acto público.
                 </p>
             </div>
         </div>
@@ -113,17 +110,16 @@
         <div class="phase">
             <div class="phase__calendar">
                 <div class="calendar calendar--red">
-                    <div class="calendar__heading">Votació</div>
+                    <div class="calendar__heading">Votación</div>
                     <div class="calendar__dates">
                         <div class="calendar__days"><strong>15</strong> - <strong>15</strong></div>
-                        <div class="calendar__month">abr. / mai.</div>
+                        <div class="calendar__month">abr. / may.</div>
                     </div>
                 </div>
             </div>
             <div class="phase__text">
                 <p>
-                    Es podrà votar telemàticament per mitjà del sistema habilitat
-                    per internet o als punts habilitats per a la votació presencial.
+                  Se podrá votar telemáticamente por medio del sistema habilitado por internet o en los puntos habilitados para la votación presencial.
                 </p>
             </div>
         </div>
@@ -153,3 +149,5 @@
 
     <p class="about-block__fine-print mt-4 mb-0">* Les dates del calendari poden sofrir variacions</p>
 </section>
+
+
