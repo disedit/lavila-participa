@@ -52,8 +52,27 @@
   padding: 2rem 0;
   overflow: hidden;
   border-bottom: 1px $gray-lighter solid;
-  background-image: url('../images/pattern.svg');
-  background-size: 633px;
+  background-image: url('https://en.visitbenidorm.es/bd/archivos/archivo625.jpg');
+  background-size: 1400px;
+
+  &::before,
+  &::after {
+    content: '';
+    background: $brand-primary;
+    background: $brand-primary-gradient;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    opacity: .5;
+    z-index: 1;
+  }
+
+  &::after {
+    opacity: 1;
+    mix-blend-mode: lighten;
+  }
 
   h2 {
     font-size: 2rem;
@@ -61,12 +80,14 @@
     line-height: 1;
     padding-right: 130px;
     max-width: 730px;
+    color: $white;
   }
 
   &__intro {
     padding-right: 130px;
     font-size: 0.9rem;
     max-width: 630px;
+    color: $white;
   }
 
   &__action {
@@ -75,6 +96,13 @@
     a {
       font-size: 1rem;
     }
+  }
+
+  .container,
+  .left-hands,
+  .right-hands {
+    position: relative;
+    z-index: 10;
   }
 
   .left-hands,
@@ -218,5 +246,11 @@
     .left-hands {
       display: block;
     }
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .vote-info {
+    background-size: cover;
   }
 }
