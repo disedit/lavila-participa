@@ -1,3 +1,7 @@
+<div class="alert alert-info">
+⚠️ A causa de l'actual <strong>emergència sanitaria</strong>, s'ajorna fins nou avís el procés participatiu de <strong>La Vila Participa</strong>.
+</div>
+
 <section aria-labelledby="about-1" class="about-block" aria-live="polite">
     <h3 id="about-1">La Vila Participa</h3>
     <img src="/images/choice-2.svg" class="about-block__thumbnail" alt="" aria-hidden="true" />
@@ -44,7 +48,9 @@
 
 <section id="calendar" aria-labelledby="about-2" class="about-block about-block--calendar">
     <h3 id="about-2">Calendari</h3>
-
+    <div class="alert alert-info">
+        ⚠️ A causa de l'actual <strong>emergència sanitaria</strong>, s'ajorna fins nou avís el procés participatiu de <strong>La Vila Participa</strong>.
+    </div>
     <div class="phases phases-compact">
         <div class="phase">
             <div class="phase__calendar">

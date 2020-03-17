@@ -224,6 +224,18 @@
   }
 }
 
+.postponed {
+  background: $red;
+  width: fit-content;
+  color: $white;
+  border-radius: $border-radius;
+  padding: 2rem 1.5rem;
+  margin-left: auto;
+  font-weight: bold;
+  border: 2px $white solid;
+  font-size: 1.25rem;
+}
+
 @include media-breakpoint-up(lg) {
   .navbar-social {
     .nav-item {

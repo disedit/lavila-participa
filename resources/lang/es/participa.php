@@ -15,6 +15,8 @@ return [
     'tweet' => 'He votado en qué proyectos quiero que @Aytolavila invierta',
     'description' => 'Tú decides las inversiones del Ayuntamiento. El Gobierno de la Vila Joiosa te abre la posibilidad de participar activamente en las decisioines que más te afectan. Juntos queremos mejorar la Vila Joiosa, ¡y tu voto cuenta!',
     'keywords' => 'la Vila Joiosa, ajuntament, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, la Vila Joiosa participa, votació, votación, referendum',
+    'postponed' => 'Aplazado',
+    'tbd' => 'Fechas por determinar',
 
     /*
     |--------------------------------------------------------------------------

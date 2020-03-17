@@ -15,6 +15,8 @@ return [
     'tweet' => 'I have voted on which projects I want @Aytolavila to invest in',
     'description' => 'You have a say on the Council\'s decisions. The City Council of la Vila Joiosa lets you take an active part in the decisions that affect you the most.',
     'keywords' => 'la Vila Joiosa, council, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, la Vila Joiosa participa, votació, votación, referendum',
+    'postponed' => 'Postponed',
+    'tbd' => 'Dates to be determined',
 
     /*
     |--------------------------------------------------------------------------

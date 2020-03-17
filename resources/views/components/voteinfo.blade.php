@@ -7,7 +7,6 @@
                 <div class="col-md-8 vote-info__text">
                     <h2>@lang('participa.heading')</h2>
                     <p class="vote-info__intro">@lang('participa.subheading')</p>
-
                     @if (isset($edition))
                         <p class="vote-info__action">
                             @if ($edition->isOpen())
@@ -24,7 +23,10 @@
                 </div>
 
                 <div class="col-lg-4 d-none d-lg-block">
-                    @include('components/calendar')
+                    <div class="postponed">
+                        @lang('participa.postponed')
+                    </div>
+                    {{-- @include('components/calendar') --}}
                 </div>
             </div>
         </div>
