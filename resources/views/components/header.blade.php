@@ -10,7 +10,7 @@
             @if ($logoUrl)
                 <img src="{{ secure_asset('images/' . $logoUrl) }}" alt="{{ config('app.name', 'Participa') }}" height="40" />
             @else
-                {{ config('app.name', 'Participa') }}
+                <i class="far fa-comments-alt"></i> {{ config('app.name', 'Participa') }}
             @endif
         </a>
     </h1>

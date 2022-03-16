@@ -8,9 +8,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    @isset($token)
-        <meta name="jwt-token" content="{{ $token }}">
-    @endisset
+    @if(Auth::user())
+        <meta name="jwt-token" content="{{ Auth::user()->api_token }}">
+    @endif
 
     <title>@yield('title'){{ config('app.name', 'Participa') }}</title>
 
@@ -44,7 +44,7 @@
     <main class="main-background" id="content">
         <div class="container main-container">
             @isset($isArchive)
-                <div class="alert alert-primary mb-4"><i class="far fa-archive" aria-hidden="true"></i> @lang('participa.is_archive', ['end_date' => human_date($edition->end_date) . ' ' . date('Y', strtotime($edition->end_date))])</div>
+                <div class="alert alert-primary mb-4" role="alert"><i class="far fa-archive" aria-hidden="true"></i> @lang('participa.is_archive', ['end_date' => human_date($edition->end_date) . ' ' . date('Y', strtotime($edition->end_date))])</div>
             @endisset
 
             @yield('content')

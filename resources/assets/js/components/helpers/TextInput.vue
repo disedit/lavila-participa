@@ -17,6 +17,7 @@
     @focus="focused = true; $emit('focus');"
     @blur="focused = value ? true : false; $emit('blur');"
     :required="required"
+    v-bind="$attrs"
     :class="{ 'form-control form-control-lg': true, 'form-control-warning': warning }" />
 
   </div>
@@ -85,6 +86,10 @@
       padding-left: 1rem;
       padding-bottom: 0.4rem;
       border-width: 0.2rem;
+
+      &:focus {
+        border-color: $brand-primary !important;
+      }
     }
   }
 

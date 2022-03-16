@@ -12,10 +12,7 @@
         @endif
 
         <h4>{{ $edition->name }}</h4>
-        <p class="sidebar__secondary">
-        {{--@lang('participa.sidebar_dates', ['start_date' => human_date($edition->start_date), 'end_date' => human_date($edition->end_date)])--}}
-        @lang('participa.tbd')
-        </p>
+        <p class="sidebar__secondary">@lang('participa.sidebar_dates', ['start_date' => human_date($edition->start_date), 'end_date' => human_date($edition->end_date)])</p>
 
         <div class="sidebar__social-plugins">
             @component('components.share_buttons', ['share' => 'false'])
@@ -136,5 +133,9 @@
 
     <div>
         {!! $edition->sidebar !!}
+    </div>
+
+    <div class="text-center">
+        <img src="{{ asset('images/choice.svg') }}" width="80%" alt="" />
     </div>
 </aside>

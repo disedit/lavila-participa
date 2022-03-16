@@ -3,8 +3,7 @@
 /public/storage
 /public/js
 /public/fonts
-/public/images/*
-!/public/images/thumbnail.png
+/public/images
 /public/css
 /public/mix-manifest.json
 /storage/*.key
