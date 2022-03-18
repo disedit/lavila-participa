@@ -23,10 +23,7 @@
                 </div>
 
                 <div class="col-lg-4 d-none d-lg-block">
-                    <div class="postponed">
-                        @lang('participa.postponed')
-                    </div>
-                    {{-- @include('components/calendar') --}}
+                    @include('components/calendar')
                 </div>
             </div>
         </div>
