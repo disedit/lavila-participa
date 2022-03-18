@@ -136,6 +136,6 @@
     </div>
 
     <div class="text-center">
-        <img src="{{ asset('images/choice.svg') }}" width="80%" alt="" />
+        <img src="{{ asset('images/choice-2.svg') }}" width="80%" alt="" />
     </div>
 </aside>

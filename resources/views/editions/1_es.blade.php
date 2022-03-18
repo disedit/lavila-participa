@@ -1,70 +1,30 @@
-<div class="alert alert-info">
-⚠️ A causa de la actual <strong>emergencia sanitaria</strong>, se aplaza hasta nuevo aviso el proceso participativo de <strong>La Vila Participa</strong>.
-</div>
-
 <section aria-labelledby="about-1" class="about-block" aria-live="polite">
-    <h3 id="about-1">La Vila Participa</h3>
-    <img src="/images/choice-2.svg" class="about-block__thumbnail" alt="" aria-hidden="true" />
+    <h3 id="about-1">¿Qué son los presupuestos participativos?</h3>
 
     <p>
-      El <strong>Ayuntamiento de Villajoyosa</strong> ha establecido la regeneración
-      democrática como unos de sus pilares básicos. Una regeneración que pasa por
-      dar voz a los ciudadanos, acercándolos a la toma de decisiones.
-      Una participación que tiene por finalidad que la ciudadanía pueda
-      alcanzar mayores cuotas de corresponsabilidad política porque
-      <strong>"co-gobiernan" su ayuntamiento, su pueblo.</strong>
-    </p>
-    <p>
-      Ya comenzamos hace dos años con este formato de presupuestos participativos y en esta segunda edición el proceso de participación será mucho más amplio, dinámico y fácil.
-    </p>
-    <p>
-      <strong>La Vila Participa</strong> pretende profundizar en la participación
-      real y efectiva de la ciudadanía.
-    </p>
-    <p>
-      A tal efecto, el Equipo de Gobierno ha decidido que los <strong>10 proyectos</strong>
-      que se someten a votación sean propuestos por la ciudadanía.
-      En <strong>febrero de 2020</strong>, se abrirá un plazo de cuatro semanas para que los
-      ciudadanos y las ciudadanas presenten sus propuestas de inversiones.
-      Estas propuestas serán evaluadas y analizadas por técnicos municipales
-      y cada propuesta tendrá un presupuesto estimado y una estimación de
-      beneficiarios, así como el motivo por el que quedan desestimadas.
-    </p>
-    <p>
-      Posteriormente, serán los ciudadanos quienes se pronunciarán
-      sobre <strong>qué 3 proyectos</strong> consideran prioritarios.
-      La información en torno a los proyectos se podrá consultar en la
-      web municipal, en los lugares habilitados para la emisión de la opinión
-      de la ciudadanía, así como en los diferentes medios de comunicación.
-      Se hará una presentación pública de los 10 proyectos sometidos a votación.
-    </p>
-    <p>
-      Los responsables de los proyectos elegidos para ser votados tendrán
-      la oportunidad de presentarlos públicamente en una sesión abierta a
-      la ciudadanía, sin perjuicio de que la persona o grupo que así lo considere
-      pueda hacer más acciones de promoción de su propuesta.
+        Son una herramienta de <strong>participación directa de la ciudadanía</strong> para decidir
+        a qué se destina parte del gasto municipal para el próximo año.
     </p>
 </section>
 
 <section id="calendar" aria-labelledby="about-2" class="about-block about-block--calendar">
-    <h3 id="about-2">Calendario</h3>
-    <div class="alert alert-info">
-    ⚠️ A causa de la actual <strong>emergencia sanitaria</strong>, se aplaza hasta nuevo aviso el proceso participativo de <strong>La Vila Participa</strong>.
-    </div>
+    <h3 id="about-2">¿En qué consistirán?</h3>
+
     <div class="phases phases-compact">
         <div class="phase">
             <div class="phase__calendar">
                 <div class="calendar">
                     <div class="calendar__heading">Propuestas</div>
                     <div class="calendar__dates">
-                        <div class="calendar__days"><strong>1-29</strong></div>
-                        <div class="calendar__month">febrero</div>
+                        <div class="calendar__days"><strong>21-4</strong></div>
+                        <div class="calendar__month">mar / abr</div>
                     </div>
                 </div>
             </div>
             <div class="phase__text">
                 <p>
-                    La ciudadanía y asociaciones pueden hacer llegar sus propuestas rellenando el <a href="/propose">formulario online</a>.
+                    Propuesta de proyectos por parte de todos los ciudadanos y ciudadanas.
+                    <a href="/propose">Envía tu propuesta</a>.
                 </p>
             </div>
         </div>
@@ -78,39 +38,18 @@
                 <div class="calendar">
                     <div class="calendar__heading">Evaluación</div>
                     <div class="calendar__dates">
-                        <div class="calendar__days"><strong>1</strong> - <strong>31</strong></div>
-                        <div class="calendar__month">marzo</div>
-                    </div>
-                </div>
-            </div>
-            <div class="phase__text">
-                <p>Información técnica de los proyectos presentados por determinar presupuesto.</p>
-            </div>
-        </div>
-
-        <div class="phase__path mt-0">
-            <img src="/images/path-2.svg" alt="" style="transform: rotate(180deg);" />
-        </div>
-
-        <div class="phase">
-            <div class="phase__calendar">
-                <div class="calendar">
-                    <div class="calendar__heading">Campaña</div>
-                    <div class="calendar__dates">
-                        <div class="calendar__days"><strong>1</strong> - <strong>31</strong></div>
+                        <div class="calendar__days"><strong>4</strong> - <strong>13</strong></div>
                         <div class="calendar__month">abril</div>
                     </div>
                 </div>
             </div>
             <div class="phase__text">
-                <p>
-                    Se expondrán y explicarán los 10 proyectos objeto de votación, periodo y lugares donde votar en un acto público.
-                </p>
+                <p>Revisión por parte de los técnicos.</p>
             </div>
         </div>
 
-        <div class="phase__path">
-            <img src="/images/path.svg" alt="" />
+        <div class="phase__path mt-0">
+            <img src="/images/path-2.svg" alt="" style="transform: rotate(180deg);" />
         </div>
 
         <div class="phase">
@@ -118,42 +57,83 @@
                 <div class="calendar calendar--red">
                     <div class="calendar__heading">Votación</div>
                     <div class="calendar__dates">
-                        <div class="calendar__days"><strong>15</strong> - <strong>15</strong></div>
-                        <div class="calendar__month">abr. / may.</div>
+                        <div class="calendar__days"><strong>18</strong> - <strong>24</strong></div>
+                        <div class="calendar__month">abril</div>
                     </div>
                 </div>
             </div>
             <div class="phase__text">
                 <p>
-                  Se podrá votar telemáticamente por medio del sistema habilitado por internet o en los puntos habilitados para la votación presencial.
-                </p>
-            </div>
-        </div>
-
-
-        <div class="phase__path mt-0">
-            <img src="/images/path-2.svg" alt="" style="transform: rotate(180deg);" />
-        </div>
-
-        <div class="phase">
-            <div class="phase__calendar">
-                <div class="calendar">
-                    <div class="calendar__heading">Resultats</div>
-                    <div class="calendar__dates">
-                        <div class="calendar__days"><strong>18</strong></div>
-                        <div class="calendar__month">maig</div>
-                    </div>
-                </div>
-            </div>
-            <div class="phase__text">
-                <p>
-                    Publicació dels resultats.
+                    Votación popular de las propuestas
                 </p>
             </div>
         </div>
     </div>
-
-    <p class="about-block__fine-print mt-4 mb-0">* Las fechas del calendario pueden sufrir variaciones</p>
 </section>
 
+<section aria-labelledby="about-3" class="about-block" aria-live="polite">
+    <h3 id="about-3">¿Quién puede participar?</h3>
 
+    <ul>
+        <li><strong>Vecinos y vecinas</strong> a título individual <strong>mayores de 16 años</strong> y que estén <strong>empadronadas en Villajoyosa</strong>.</li>
+        <li><strong>Entidades y/o asociaciones</strong> inscritas en el registro municipal.</li>
+        <li>Se podrá presentar un máximo de <strong>3 propuestas</strong> por persona y/o entidad.</li>
+    </ul>
+</section>
+
+<section aria-labelledby="about-4" class="about-block" aria-live="polite">
+    <h3 id="about-4">Criterios para las propuestas</h3>
+
+    <ul>
+        <li>Las propuestas deben estar dentro del ámbito de inversiones de competencia municipal.</li>
+        <li>Concretas, valorables económicamente y que den una respuesta a una determinada necesidad.</li>
+        <li>Que cumplan la normativa vigente.</li>
+        <li>Relacionadas con el interés general (no responder a intereses particulares).</li>
+        <li>Viables técnicamente.</li>
+        <li>Que no comprometan los presupuestos de otros años.</li>
+        <li>Se tendrán que presentar dentro del plazo establecido marcado.</li>
+        <li>No pueden ser actuaciones que ya se estén llevandas a cabo o estén previstas en el presupuesto municipal.</li>
+        <li>Respetuosas con los criterios de inclusión social, sostenibilidad, Derechos Humanos, equidad y libertad religiosa.</li>
+        <li>No pueden comprometer quién las ejecutará.</li>
+    </ul>
+</section>
+
+<section aria-labelledby="about-5" class="about-block" aria-live="polite">
+    <h3 id="about-5">¿Cómo se valorarán las propuestas?</h3>
+
+    <p>
+        Los técnicos municipales serán los responsables de valorar las propuestas y realizar los
+        informes correspondientes. Ante dos o más propuestas similares, los servicios técnicos
+        municipales valorarán si pueden unificarse.
+    </p>
+</section>
+
+<section aria-labelledby="about-6" class="about-block" aria-live="polite">
+    <h3 id="about-6">¿Cómo se realizarán las votaciones?</h3>
+
+    <p>
+        Una vez valoradas todas las propuestas recibidas que cumplan los requisitos, pasarán,
+        finalmente, a la fase de votación. Podrán votar todas las personas mayores de 16 años
+        empadronadas en Villajoyosa. Se irán seleccionando las propuestas más votadas hasta
+        que se agote el presupuesto.
+    </p>
+</section>
+
+<section aria-labelledby="about-7" class="about-block" aria-live="polite">
+    <h3 id="about-7">¿Cómo y cuándo se realizará la votación?</h3>
+
+    <p>
+        Una vez definidas las propuestas finalistas, se abrirá un período de votación, que se
+        podrá realizar telemáticamente a través de esta página web.
+    </p>
+</section>
+
+<section aria-labelledby="about-7" class="about-block" aria-live="polite">
+    <h3 id="about-7">¿Cómo se darán a conocer los resultados?</h3>
+
+    <p>
+        Los resultados de la votación se publicarán en los diferentes medios del Ayuntamiento
+        y, entonces, se iniciarán los trámites para ejecutar las actuaciones que hayan
+        resultado ganadoras.
+    </p>
+</section>
