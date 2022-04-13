@@ -71,6 +71,11 @@
     </div>
 </section>
 
+<section id="options" aria-labelledby="about-ops" class="about-block">
+    <h3 id="about-ops">Proposals to be voted on</h3>
+    [options]
+</section>
+
 <section aria-labelledby="about-3" class="about-block" aria-live="polite">
     <h3 id="about-3">Who can participate?</h3>
 

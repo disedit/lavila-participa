@@ -70,6 +70,11 @@
     </div>
 </section>
 
+<section id="options" aria-labelledby="about-ops" class="about-block">
+    <h3 id="about-ops">Propostes que es votaran</h3>
+    [options]
+</section>
+
 <section aria-labelledby="about-3" class="about-block" aria-live="polite">
     <h3 id="about-3">Qui hi pot participar?</h3>
 
