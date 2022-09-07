@@ -17,6 +17,7 @@ return [
     'keywords' => 'la Vila Joiosa, ajuntament, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, la Vila Joiosa participa, votació, votación, referendum',
     'postponed' => 'Ajornat',
     'tbd' => 'Dates per determinar',
+    'funding' => 'Amb una subvenció de la Diputació d\'Alacant',
 
     /*
     |--------------------------------------------------------------------------
