@@ -43,7 +43,7 @@
                     <img src="/images/dipalc.png" width="140" alt="Diputación de Alicante" />
                     <img src="/images/gva.png" width="140" alt="Generalitat Valenciana" class="ml-3" />
                 </div>
-                <p>@lang('participa.funding')</p>
+                <p class="mt-2" style="font-size: 0.85rem; opacity: .75;">@lang('participa.funding')</p>
             </div>
 
             <div class="wai-logo">
