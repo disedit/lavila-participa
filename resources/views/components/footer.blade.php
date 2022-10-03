@@ -39,7 +39,10 @@
             <p>@lang('participa.help'): <a href="mailto:{{ config('participa.contact_email', 'participa@disedit.com') }}">{{ config('participa.contact_email', 'participa@disedit.com') }}</a></p>
 
             <div class="my-3">
-                <img src="/images/dipalc.png" width="140" alt="Diputación de Alicante" />
+                <div class="d-flex">
+                    <img src="/images/dipalc.png" width="140" alt="Diputación de Alicante" />
+                    <img src="/images/gva.png" width="140" alt="Generalitat Valenciana" class="ml-3" />
+                </div>
                 <p>@lang('participa.funding')</p>
             </div>
 
